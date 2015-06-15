@@ -6,4 +6,4 @@
 4. Browse to the file and double-click it
 5. Select it in the list and click OK
 
-![Preview](https://raw.githubusercontent.com/abluescarab/monodevelop-vs2013-dark-theme/master/preview.png)
+![Preview](./preview.png)
