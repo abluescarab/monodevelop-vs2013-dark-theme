@@ -1,4 +1,4 @@
-﻿<EditorStyle name="VS2013 Dark" _description="Based on the Visual Studio 2013 dark theme. ()">
+﻿<EditorStyle name="VS2013 Dark" _description="Based on the Visual Studio 2013 dark theme. (https://github.com/abluescarab/monodevelop-vs2013-dark-theme)">
   <Style name="text" color="#DCDCDC" bgColor="#1E1E1E" />
   <Style name="text.background" color="#FFFFFF" />
   <Style name="text.background.readonly" color="#1E1E1E" />
